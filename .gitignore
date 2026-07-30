@@ -427,3 +427,38 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+# ==========================================
+# C++ Compiled Executables & Binaries
+# ==========================================
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dylib
+
+# ==========================================
+# VS Code Settings & Cache
+# ==========================================
+.vscode/
+*.code-workspace
+
+# ==========================================
+# Visual Studio / Compiler Temp Files
+# ==========================================
+.vs/
+*.ipch
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.suo
+*.user
+
+# ==========================================
+# Operating System Generated Files
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
