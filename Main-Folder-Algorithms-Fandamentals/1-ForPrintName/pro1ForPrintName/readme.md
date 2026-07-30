@@ -53,7 +53,4 @@ the name: Ebrahim
 
 * Any standard C++ compiler (e.g., `g++`, Clang, or MSVC).
 * C++11 standard support or higher.
-### 💡 طريقة الاستخدام:
-قم بإنشاء ملف باسم **`README.md`** داخل مجلد المشروع، والصق به هذا النص، وسيظهر بشكل منسق وأنيق مباشرة على منصة GitHub.
 
-```
