@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pro16AreaOfRectangleByOneSideAndDiagonal/pro16AreaOfRectangleByOneSideAndDiagonal.vcxproj" Id="0ca70028-57e8-4bee-bf04-c2c615af3ed8" />
+</Solution>

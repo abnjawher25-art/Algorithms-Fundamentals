@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pro13MaxThreeNumbers/pro13MaxThreeNumbers.vcxproj" Id="c7fbf240-fcd9-4fab-a8f8-32cd6300cd72" />
+</Solution>

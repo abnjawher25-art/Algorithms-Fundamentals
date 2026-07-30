@@ -462,3 +462,12 @@ FodyWeavers.xsd
 .DS_Store
 Thumbs.db
 desktop.ini
+
+*.exe
+*.obj
+*.o
+*.pdb
+.vs/
+Debug/
+Release/
+x64/

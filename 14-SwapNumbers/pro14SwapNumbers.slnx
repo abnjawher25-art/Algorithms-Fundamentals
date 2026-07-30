@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pro14SwapNumbers/pro14SwapNumbers.vcxproj" Id="427c8186-141c-4155-821d-143410cb0603" />
+</Solution>
