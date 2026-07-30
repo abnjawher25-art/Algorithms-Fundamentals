@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="pro10AskThreeNumbersForAverage/pro10AskThreeNumbersForAverage.vcxproj" Id="0f29c1df-69c5-4bde-8845-71d1bb7b62ef" />
-</Solution>

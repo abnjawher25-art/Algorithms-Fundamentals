@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="pro9AskToEnterThreeNumbersToFindSum/pro9AskToEnterThreeNumbersToFindSum.vcxproj" Id="1b1b42e1-8356-41af-bceb-e62c09af4dca" />
-</Solution>

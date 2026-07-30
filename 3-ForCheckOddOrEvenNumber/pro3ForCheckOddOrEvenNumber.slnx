@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="pro3ForCheckOddOrEvenNumber/pro3ForCheckOddOrEvenNumber.vcxproj" Id="d8c2c2ec-88f8-4f0c-ab8f-68ac9162a776" />
-</Solution>

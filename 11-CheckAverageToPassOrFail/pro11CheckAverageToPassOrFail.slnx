@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="pro11CheckAverageToPassOrFail/pro11CheckAverageToPassOrFail.vcxproj" Id="31aad76c-daa1-4be2-833f-ec45e71f2727" />
-</Solution>
