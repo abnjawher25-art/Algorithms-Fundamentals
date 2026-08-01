@@ -18,9 +18,8 @@ cd cpp-marks-average-calculator
 ```
 
 ### Option 2: Direct Download Links
-
-* 📦 **[Download Full Source Code (.ZIP)](https://www.google.com/search?q=https://github.com/abnjawher25-art/cpp-marks-average-calculator/archive/refs/heads/main.zip)**
-* 📄 **[View Raw main.cpp File](https://www.google.com/search?q=https://raw.githubusercontent.com/abnjawher25-art/cpp-marks-average-calculator/main/main.cpp)**
+* 📦 **[Download Full Source Code (.ZIP)](https://github.com/abnjawher25-art/cpp-marks-average-calculator/archive/refs/heads/main.zip)**
+* 📄 **[View Raw main.cpp File](https://raw.githubusercontent.com/abnjawher25-art/cpp-marks-average-calculator/main/main.cpp)**
 
 ---
 
