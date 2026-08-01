@@ -1,12 +1,5 @@
 
 ```markdown
-# 📊 C++ Marks Average Calculator
-
-![C++ Version](https://img.shields.io/badge/C%2B%2B-11%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Architecture](https://img.shields.io/badge/Architecture-Modular-orange.svg)
-
-A clean, modular C++ console application designed to gather floating-point inputs, aggregate total marks, calculate their average, and display the formatted output within a stylized ASCII terminal banner.
 
 ---
 
