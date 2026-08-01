@@ -10,27 +10,6 @@ A clean, modular C++ console application designed to gather floating-point input
 
 ---
 
-## 📥 Download & Repository Setup
-
-You can download and set up this project on your local machine using any of the methods below:
-
-### Option 1: Clone via Git CLI (Recommended)
-```bash
-git clone [https://github.com/abnjawher25-art/cpp-marks-average-calculator.git](https://github.com/abnjawher25-art/cpp-marks-average-calculator.git)
-cd cpp-marks-average-calculator
-
-```
-
-### Option 2: Quick Downloads
-
-| Resource | Format | Direct Link |
-| --- | --- | --- |
-| **Complete Project** | `.ZIP` | 📦 **[Download Source Archive](https://github.com/abnjawher25-art/cpp-marks-average-calculator/archive/refs/heads/main.zip)** |
-| **Raw C++ Code** | `.cpp` | 📄 **[View Raw Code](https://www.google.com/search?q=https://raw.githubusercontent.com/abnjawher25-art/cpp-marks-average-calculator/main/pro10AskThreeNumbersForAverage.cpp)** |
-| **GitHub Viewer** | Web | 👁️ **[View Code on GitHub](https://www.google.com/search?q=https://github.com/abnjawher25-art/cpp-marks-average-calculator/blob/main/pro10AskThreeNumbersForAverage.cpp)** |
-
----
-
 ## 🏗️ Code Architecture & Mechanics
 
 The program follows the **Single Responsibility Principle (SRP)** by breaking execution into small, dedicated functional modules.
