@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="pro25AskNumberInRange/pro25AskNumberInRange.vcxproj" Id="3515d8cd-80e5-4bc2-8e8a-5d0a0944ed98" />
-</Solution>

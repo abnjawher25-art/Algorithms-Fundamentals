@@ -1,7 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="pro19CircleAreaByDiameter/pro19CircleAreaByDiameter.vcxproj" Id="b8616512-e054-40d8-8725-2d5b5fd7470a" />
-</Solution>
