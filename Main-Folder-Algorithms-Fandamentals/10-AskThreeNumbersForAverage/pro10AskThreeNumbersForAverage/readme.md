@@ -117,5 +117,3 @@ Enter the Mark(3): 79.5
 * **Zero Dependencies:** Relies purely on the C++ Standard Library (`<iostream>`).
 
 ```
-
-```
