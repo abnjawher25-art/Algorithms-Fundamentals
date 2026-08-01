@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="#-arabic-version"><b>العربية 🇸🇦</b></a> | 
+  <a href="#-english-version"><b>English 🇬🇧</b></a>
+</p>
 # Average Calculator (C++)
 
 A simple C++ console application that prompts the user to enter three numerical marks, calculates their sum and average, and displays the result in a styled console format.
