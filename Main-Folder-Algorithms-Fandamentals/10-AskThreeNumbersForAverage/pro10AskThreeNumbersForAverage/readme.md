@@ -1,4 +1,3 @@
-إليك النسخة **المُطرّرة والأقوى** لملف `README.md`. تم توسيع قسم الشرح البرمجي بشكل أعمق ليشمل تحليل الدالة بدالة، شرح مفاهيم الـ Memory والأداء (Performance)، وكيفية عمل الإشارات والأقواس، مما يجعل الملف ممتازاً لنشره على منصات مثل GitHub أو استخدامه كمرجع تعليمي متقدم:
 
 ```markdown
 # 📊 C++ Marks Average Calculator (Modular Architecture)
@@ -13,15 +12,15 @@ You can download and set up this project using any of the options below:
 
 ### Option 1: Clone via Git CLI (Recommended)
 ```bash
-git clone [https://github.com/your-username/cpp-marks-average-calculator.git](https://github.com/your-username/cpp-marks-average-calculator.git)
+git clone [https://github.com/abnjawher25-art/cpp-marks-average-calculator.git](https://github.com/abnjawher25-art/cpp-marks-average-calculator.git)
 cd cpp-marks-average-calculator
 
 ```
 
 ### Option 2: Direct Download Links
 
-* 📦 **[Download Full Source Code (.ZIP)](https://www.google.com/search?q=https://github.com/your-username/cpp-marks-average-calculator/archive/refs/heads/main.zip)**
-* 📄 **[View Raw main.cpp File](https://www.google.com/search?q=https://raw.githubusercontent.com/your-username/cpp-marks-average-calculator/main/main.cpp)**
+* 📦 **[Download Full Source Code (.ZIP)](https://www.google.com/search?q=https://github.com/abnjawher25-art/cpp-marks-average-calculator/archive/refs/heads/main.zip)**
+* 📄 **[View Raw main.cpp File](https://www.google.com/search?q=https://raw.githubusercontent.com/abnjawher25-art/cpp-marks-average-calculator/main/main.cpp)**
 
 ---
 
