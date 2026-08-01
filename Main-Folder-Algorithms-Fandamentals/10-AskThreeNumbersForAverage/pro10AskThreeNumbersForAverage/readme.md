@@ -1,18 +1,17 @@
-<p align="center">
-  <a href="#-english-version">
-    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English">
-  </a>
-  <a href="#-النسخة-العربية">
+# Average Calculator (C++)
+
+<p align="right">
+  <a href="#arabic-version">
     <img src="https://img.shields.io/badge/اللغة-العربية-green?style=for-the-badge" alt="Arabic">
   </a>
 </p>
 
-# Average Calculator (C++)                                                                              
-
 A simple C++ console application that prompts the user to enter three numerical marks, calculates their sum and average, and displays the result in a styled console format.
 
+<a id="english-version"></a>
+
 ---
-## 🇬🇧 English Version
+
 ## 📌 Features
 
 * **Float Precision:** Supports decimal numbers (`float`).
@@ -82,30 +81,20 @@ int main()
 
 	return 0;
 }
-```
 
----
+🚀 How to Run
+1. Prerequisites
+Make sure you have a C++ compiler installed (e.g., g++ via MinGW/GCC) or an IDE like Visual Studio, Code::Blocks, or CLion.
 
-## 🚀 How to Run
-
-### 1. Prerequisites
-Make sure you have a C++ compiler installed (e.g., `g++` via MinGW/GCC) or an IDE like Visual Studio, Code::Blocks, or CLion.
-
-### 2. Compilation and Execution (Terminal / Command Prompt)
-
-```bash
+2. Compilation and Execution (Terminal / Command Prompt)
+Bash
 # Compile the code
 g++ main.cpp -o AverageCalculator
 
 # Run the executable
 ./AverageCalculator
-```
-
----
-
-## 💻 Sample Output
-
-```text
+💻 Sample Output
+Plaintext
 Enter the Mark(1): 85
 Enter the Mark(2): 90
 Enter the Mark(3): 95
@@ -116,28 +105,24 @@ Enter the Mark(3): 95
 |-------------------------|
 |_-_-_-_-_-_-_-_-_-_-_-_-_|
 |-------------------------|
+حاسبة المتوسط الحسابي (C++)
+برنامج بسيط مكتوب بلغة C++ يطلب من المستخدم إدخال ثلاثة درجات/أرقام، ثم يقوم بحساب المجموع والمتوسط الحسابي لها وطباعة النتيجة بشكل منسق.
 
+📌 الميزات (Features)
+إدخال أرقام مرن: قبول الأعداد العشرية (Floating-point numbers).
 
-# Average Calculator (حاسبة المتوسط الحسابي)                                                                       
+تقسيم الكود (Modular Code): كتابة الكود عبر دالّات منفصلة ومُنظمة لتسهيل القراءة والقابلية لإعادة الاستخدام:
 
-برنامج بسيط مكتوب بلغة **C++** يطلب من المستخدم إدخال ثلاثة درجات/أرقام، ثم يقوم بحساب المجموع والمتوسط الحسابي لها وطباعة النتيجة بشكل منسق.
+readNumbers: لإدخال البيانات.
 
----
-## 🇸🇦 النسخة العربية
-## 📌 الميزات (Features)
+GetSumOfMarks: لحساب المجموع.
 
-* **إدخال أرقام مرن:** قبول الأعداد العشرية (Floating-point numbers).
-* **تقسيم الكود (Modular Code):** كتابة الكود عبر دالّات منفصلة ومُنظمة لتسهيل القراءة والقابلية لإعادة الاستخدام:
-  * `readNumbers`: لإدخال البيانات.
-  * `GetSumOfMarks`: لحساب المجموع.
-  * `GetAverage`: لحساب المتوسط الحسابي.
-  * `printAverage`: لطباعة النتيجة بتنسيق جميل.
+GetAverage: لحساب المتوسط الحسابي.
 
----
+printAverage: لطباعة النتيجة بتنسيق جميل.
 
-## 🛠️ الكود البرمجي (Source Code)
-
-```cpp
+🛠️ الكود البرمجي (Source Code)
+C++
 #include <iostream>
 using namespace std;
 
@@ -209,30 +194,19 @@ int main()
 
 	return 0;
 }
-```
+🚀 طريقة التشغيل (How to Run)
+1. المتطلبات (Prerequisites)
+تأكد من وجود مترجم لغة C++ على جهازك (مثل g++ أو استخدام بيئة تطوير مثل Visual Studio / Code::Blocks).
 
----
-
-## 🚀 طريقة التشغيل (How to Run)
-
-### 1. المتطلبات (Prerequisites)
-تأكد من وجود مترجم لغة C++ على جهازك (مثل `g++` أو استخدام بيئة تطوير مثل Visual Studio / Code::Blocks).
-
-### 2. التجميع والتشغيل عبر السطر البرمجي (Terminal / Command Prompt)
-
-```bash
+2. التجميع والتشغيل عبر السطر البرمجي (Terminal / Command Prompt)
+Bash
 # 1. تجميع الكود
 g++ main.cpp -o AverageCalculator
 
 # 2. تشغيل البرنامج
 ./AverageCalculator
-```
-
----
-
-## 💻 مثال على المخرجات (Example Output)
-
-```text
+💻 مثال على المخرجات (Example Output)
+Plaintext
 Enter the Mark(1): 85
 Enter the Mark(2): 90
 Enter the Mark(3): 95
