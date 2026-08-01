@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pro24AskAge/pro24AskAge.vcxproj" Id="f546ecf3-fd53-4748-a5d8-9f2fc0330581" />
+</Solution>

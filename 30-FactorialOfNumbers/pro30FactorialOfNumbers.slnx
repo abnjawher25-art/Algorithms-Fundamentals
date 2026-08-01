@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pro30FactorialOfNumbers/pro30FactorialOfNumbers.vcxproj" Id="af82683f-ac34-44af-8209-09d056504058" />
+</Solution>
