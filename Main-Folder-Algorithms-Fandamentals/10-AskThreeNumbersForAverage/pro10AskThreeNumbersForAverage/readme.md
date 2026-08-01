@@ -7,7 +7,6 @@
 
 The program follows the **Single Responsibility Principle (SRP)** by breaking execution into small, dedicated functional modules.
 
-```
                    +--------------------+
                    |       main()       |
                    +---------+----------+
