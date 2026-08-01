@@ -1,13 +1,18 @@
-<p align="right">
-  <a href="#-arabic-version"><b>العربية 🇸🇦</b></a> | 
-  <a href="#-english-version"><b>English 🇬🇧</b></a>
+<p align="center">
+  <a href="#-english-version">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English">
+  </a>
+  <a href="#-النسخة-العربية">
+    <img src="https://img.shields.io/badge/اللغة-العربية-green?style=for-the-badge" alt="Arabic">
+  </a>
 </p>
-# Average Calculator (C++)                                                                              ## 🇬🇧 English Version
+
+# Average Calculator (C++)                                                                              
 
 A simple C++ console application that prompts the user to enter three numerical marks, calculates their sum and average, and displays the result in a styled console format.
 
 ---
-
+## 🇬🇧 English Version
 ## 📌 Features
 
 * **Float Precision:** Supports decimal numbers (`float`).
@@ -113,12 +118,12 @@ Enter the Mark(3): 95
 |-------------------------|
 
 
-# Average Calculator (حاسبة المتوسط الحسابي)                                                                       ## 🇸🇦 Arabic Version
+# Average Calculator (حاسبة المتوسط الحسابي)                                                                       
 
 برنامج بسيط مكتوب بلغة **C++** يطلب من المستخدم إدخال ثلاثة درجات/أرقام، ثم يقوم بحساب المجموع والمتوسط الحسابي لها وطباعة النتيجة بشكل منسق.
 
 ---
-
+## 🇸🇦 النسخة العربية
 ## 📌 الميزات (Features)
 
 * **إدخال أرقام مرن:** قبول الأعداد العشرية (Floating-point numbers).
