@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="pro38PrimeNumber/pro38PrimeNumber.vcxproj" Id="256563f7-84ed-45ee-b2ab-125dfa29cfe6" />
+</Solution>
