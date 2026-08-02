@@ -1,107 +1,125 @@
+Here is a complete `README.md` file designed for your C++ Average Calculator project.
 
 ```markdown
+# Student Marks Average Calculator
+
+A lightweight C++ console application that prompts the user to enter three numerical marks, computes their total sum and average, and displays the final result in a formatted box.
 
 ---
 
-## 🏗️ Code Architecture & Mechanics
+## Prerequisites & Requirements
 
-The program follows the **Single Responsibility Principle (SRP)** by breaking execution into small, dedicated functional modules.
+To compile and run this program, you will need:
 
-                   +--------------------+
-                   |       main()       |
-                   +---------+----------+
-                             |
-            +----------------+----------------+
-            |                |                |
-            v                v                v
-    +---------------+ +---------------+ +------------------+
-    | readNumbers() | | GetAverage()  | |  printAverage()  |
-    +---------------+ +-------+-------+ +------------------+
-                              |
-                              v
-                     +------------------+
-                     | GetSumOfMarks()  |
-                     +------------------+
+* **Compiler:** Any C++ compiler supporting C++11 or higher (e.g., `g++`, `clang++`, or MSVC).
+* **IDE / Terminal:** VS Code, Visual Studio, CLion, or any terminal environment.
+* **Operating System:** Windows, macOS, or Linux.
+
+---
+
+## Program Flow Diagram
+
 
 ```
 
-### Function Reference
++------------------+
+|    main()        |
++--------+---------+
+|
+v
++------------------+      Prompts user for 3 marks
+|  readNumbers()   | ---> Stores values into marks[3] array
++--------+---------+
+|
+v
++------------------+      Calls GetSumOfMarks() internally
+|   GetAverage()   | ---> Sums all 3 array elements
++--------+---------+      Calculates average: sum / 3.0
+|
+v
++------------------+
+|  printAverage()  | ---> Outputs styled average box
++------------------+
 
-| Function | Return Type | Arguments | Primary Responsibility |
-| --- | --- | --- | --- |
-| `readNumbers` | `void` | `float arr[3]` | Interactively prompts for 3 numbers and populates array values directly in memory. |
-| `GetSumOfMarks` | `float` | `float arr[3]` | Traverses array elements to calculate the accumulated total score. |
-| `GetAverage` | `float` | `float arr[3]` | Obtains the total sum and applies floating-point division by 3. |
-| `printAverage` | `void` | `float average` | Formats and prints the final result wrapped in an ASCII terminal frame. |
+```
 
 ---
 
-## 💡 Deep-Dive Concepts Explored
-
-### 1. Array Decay & Pass-by-Reference
-
-When passing `float arr[3]` to functions like `readNumbers()`, C++ decays the array into a pointer (`float*`) pointing to the first element. Any modifications made inside the function directly manipulate the original array allocated on the stack in `main()`.
-
-### 2. Primitive Memory Optimization
-
-Loop counters use `short` (2 bytes) instead of standard `int` (4/8 bytes) to lower memory usage during tiny boundary iterations ($N = 3$).
-
-### 3. Explicit Type Casting
+## Source Code
 
 ```cpp
-float average = float(GetSumOfMarks(arr)) / 3;
+#include <iostream>
+using namespace std;
+
+// Read three numbers from the user and store them in the array arr.
+void readNumbers(float arr[3])
+{
+	float enteredMark;
+
+	for (short i = 0; i < 3; i++) {
+		cout << "Enter the Mark(" << i + 1 << "): ";
+		cin >> enteredMark;
+		arr[i] = enteredMark;
+	}
+}
+
+// Calculate the sum of the numbers in the array arr.
+float GetSumOfMarks(float arr[3])
+{
+	float sum = 0;
+
+	for (short i = 0; i < 3; i++) {
+		sum += arr[i];
+	}
+
+	return sum;
+}
+
+// Calculate the average of the numbers in the array arr.
+float GetAverage(float arr[3])
+{
+	float average = float(GetSumOfMarks(arr)) / 3;
+	return average;
+}
+
+// Print the average inside a formatted box.
+void printAverage(float average)
+{
+	cout << "|_________________________|\n";
+	cout << "|_-_-_-_-_-_-_-_-_-_-_-_-_|\n";
+	cout << "|-------------------------|\n";
+	cout << "| The average: " << average << endl;
+	cout << "|-------------------------|\n";
+	cout << "|_-_-_-_-_-_-_-_-_-_-_-_-_|\n";
+	cout << "|-------------------------|\n";
+}
+
+int main()
+{
+	float marks[3];
+
+	readNumbers(marks);
+	printAverage(GetAverage(marks));
+
+	return 0;
+}
 
 ```
-
-Ensures floating-point arithmetic is explicitly maintained during calculation without unexpected type truncation.
 
 ---
 
-## 💻 Compilation & Running Instructions
+## Expected Output
 
-### Prerequisites
-
-A modern C++ compiler such as **GCC (g++)**, **Clang**, or **MSVC**.
-
-### Build Steps
-
-1. **Compile the source file:**
-```bash
-g++ -O2 pro10AskThreeNumbersForAverage.cpp -o MarksCalculator
-
-```
-
-
-2. **Execute the binary:**
-* **Linux / macOS:**
-```bash
-./MarksCalculator
-
-```
-
-
-* **Windows (CMD / PowerShell):**
-```cmd
-MarksCalculator.exe
-
-```
-
-
-
-
-
----
-
-## 🖥️ Sample Run Output
+### Sample Run
 
 ```text
-Enter the Mark(1): 88.5
-Enter the Mark(2): 92.0
-Enter the Mark(3): 79.5
+Enter the Mark(1): 85.5
+Enter the Mark(2): 90
+Enter the Mark(3): 78.5
 |_________________________|
 |_-_-_-_-_-_-_-_-_-_-_-_-_|
 |-------------------------|
-| The average: 86.6667
+| The average: 84.6667
 |-------------------------|
 |_-_-_-_-_-_-_-_-_-_-_-_-_|
 |-------------------------|
@@ -110,10 +128,23 @@ Enter the Mark(3): 79.5
 
 ---
 
-## 🛡️ Best Practices Applied
+## How to Build and Run
 
-* **High Cohesion:** Input logic, mathematical calculations, and display tasks are isolated from each other.
-* **Readable Naming:** Functions and variables clearly document their own purpose.
-* **Zero Dependencies:** Relies purely on the C++ Standard Library (`<iostream>`).
+1. **Clone or save the file:**
+Save the source code as `main.cpp`.
+2. **Compile using GCC:**
+```bash
+g++ -o avg_calculator main.cpp
+
+```
+
+
+3. **Run the executable:**
+* **Linux/macOS:** `./avg_calculator`
+* **Windows:** `avg_calculator.exe`
+
+
+
+```
 
 ```
