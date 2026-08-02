@@ -58,35 +58,5 @@ the name: Ebrahim
 
 This section provides various links to download the entire repository or directly access the specified folder.
 
----
 
-## 📥 1. Download Full Repository
 
-You can download the entire repository containing all folders and code in different formats:
-
-- 📦 [Download as ZIP](https://github.com/abnjawher25-art/Main-Folder-Algorithms-Fandamentals/archive/refs/heads/main.zip)
-- 🗜️ [Download as TAR.GZ](https://github.com/abnjawher25-art/Main-Folder-Algorithms-Fandamentals/archive/refs/heads/main.tar.gz)
-
----
-
-## 📂 2. Access Project (pro1ForPrintName)
-
-- 🔗 [Browse Folder on GitHub](https://github.com/abnjawher25-art/Main-Folder-Algorithms-Fandamentals/tree/main/1-ForPrintName/pro1ForPrintName)
-- 📄 [View Raw Source Code (main.cpp)](https://raw.githubusercontent.com/abnjawher25-art/Main-Folder-Algorithms-Fandamentals/main/1-ForPrintName/pro1ForPrintName/main.cpp)
-
----
-
-## 🛠️ 3. Download Subfolder Only
-
-### ⚡ Method 1: Via DownGit (Direct Browser Download)
-Click the link below to download only the `pro1ForPrintName` folder as a ZIP file without downloading the entire repository:
-👉 [Download Folder via DownGit](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/abnjawher25-art/Main-Folder-Algorithms-Fandamentals/tree/main/1-ForPrintName/pro1ForPrintName)
-
-### 💻 Method 2: Via Git Sparse-Checkout (Command Line)
-If you want to clone only this specific folder to your local machine using Git:
-
-```bash
-git clone --no-checkout [https://github.com/abnjawher25-art/Main-Folder-Algorithms-Fandamentals.git](https://github.com/abnjawher25-art/Main-Folder-Algorithms-Fandamentals.git)
-cd Main-Folder-Algorithms-Fandamentals
-git sparse-checkout set 1-ForPrintName/pro1ForPrintName
-git checkout
