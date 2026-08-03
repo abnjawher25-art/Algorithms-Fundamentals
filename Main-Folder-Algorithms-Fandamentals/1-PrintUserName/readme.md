@@ -56,30 +56,3 @@ The primary entry point where execution begins.
 Calls printedName("Ebrahim") passing "Ebrahim" as the argument.
 
 Returns 0 to signal successful execution.
-
-🛠️ How to Run
-Requirements
-A C++ compiler such as GCC / g++, Clang, or MSVC.
-
-An IDE or code editor (e.g., VS Code, Code::Blocks, CLion).
-
-Terminal / Command Line Instructions
-Compile the code:
-
-Bash
-g++ -o name_printer main.cpp
-Run the executable:
-
-On Linux / macOS:
-
-Bash
-./name_printer
-On Windows:
-
-DOS
-name_printer.exe
-📊 Expected Output
-Plaintext
-the name: Ebrahim
-📝 License
-This project is open-source and available for educational and personal use.
