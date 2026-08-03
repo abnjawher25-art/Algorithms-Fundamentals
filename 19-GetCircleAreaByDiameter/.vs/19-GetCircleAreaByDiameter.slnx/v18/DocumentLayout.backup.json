@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projectsOfCpp\\Algorithms-level-one\\19-GetCircleAreaByDiameter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F852DC23-62D6-48F1-A0D2-019CF40A07D5}|19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.vcxproj|H:\\projectsOfCpp\\Algorithms-level-one\\19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F852DC23-62D6-48F1-A0D2-019CF40A07D5}|19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.vcxproj|solutionrelative:19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "19-GetCircleAreaByDiameter.cpp",
+              "DocumentMoniker": "H:\\projectsOfCpp\\Algorithms-level-one\\19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.cpp",
+              "RelativeDocumentMoniker": "19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.cpp",
+              "ToolTip": "H:\\projectsOfCpp\\Algorithms-level-one\\19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.cpp",
+              "RelativeToolTip": "19-GetCircleAreaByDiameter\\19-GetCircleAreaByDiameter.cpp",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T17:57:39.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projectsOfCpp\\Algorithms-level-one\\40-CalculateAdditionOfBillPrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05020CFC-2D38-484D-94E3-4302B968F737}|40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.vcxproj|H:\\projectsOfCpp\\Algorithms-level-one\\40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05020CFC-2D38-484D-94E3-4302B968F737}|40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.vcxproj|solutionrelative:40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "40-CalculateAdditionOfBillPrice.cpp",
+              "DocumentMoniker": "H:\\projectsOfCpp\\Algorithms-level-one\\40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.cpp",
+              "RelativeDocumentMoniker": "40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.cpp",
+              "ToolTip": "H:\\projectsOfCpp\\Algorithms-level-one\\40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.cpp",
+              "RelativeToolTip": "40-CalculateAdditionOfBillPrice\\40-CalculateAdditionOfBillPrice.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T19:00:13.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

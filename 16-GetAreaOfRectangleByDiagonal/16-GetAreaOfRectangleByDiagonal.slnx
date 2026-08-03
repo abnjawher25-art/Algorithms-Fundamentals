@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="16-GetAreaOfRectangleByDiagonal/16-GetAreaOfRectangleByDiagonal.vcxproj" />
+</Solution>

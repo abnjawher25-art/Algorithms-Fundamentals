@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projectsOfCpp\\Algorithms-level-one\\27-GetDescendingDigitalSeries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5538B75-5AAD-49B3-89EE-49D475FEC992}|27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.vcxproj|H:\\projectsOfCpp\\Algorithms-level-one\\27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5538B75-5AAD-49B3-89EE-49D475FEC992}|27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.vcxproj|solutionrelative:27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "27-GetDescendingDigitalSeries.cpp",
+              "DocumentMoniker": "H:\\projectsOfCpp\\Algorithms-level-one\\27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.cpp",
+              "RelativeDocumentMoniker": "27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.cpp",
+              "ToolTip": "H:\\projectsOfCpp\\Algorithms-level-one\\27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.cpp*",
+              "RelativeToolTip": "27-GetDescendingDigitalSeries\\27-GetDescendingDigitalSeries.cpp*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T18:18:14.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projectsOfCpp\\Algorithms-level-one\\33-DidStudentSucceed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15286A22-0934-4970-8873-D8978CBA738D}|33-DidStudentSucceed\\33-DidStudentSucceed.vcxproj|H:\\projectsOfCpp\\Algorithms-level-one\\33-DidStudentSucceed\\33-DidStudentSucceed\\33-DidStudentSucceed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15286A22-0934-4970-8873-D8978CBA738D}|33-DidStudentSucceed\\33-DidStudentSucceed.vcxproj|solutionrelative:33-DidStudentSucceed\\33-DidStudentSucceed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "33-DidStudentSucceed.cpp",
+              "DocumentMoniker": "H:\\projectsOfCpp\\Algorithms-level-one\\33-DidStudentSucceed\\33-DidStudentSucceed\\33-DidStudentSucceed.cpp",
+              "RelativeDocumentMoniker": "33-DidStudentSucceed\\33-DidStudentSucceed.cpp",
+              "ToolTip": "H:\\projectsOfCpp\\Algorithms-level-one\\33-DidStudentSucceed\\33-DidStudentSucceed\\33-DidStudentSucceed.cpp",
+              "RelativeToolTip": "33-DidStudentSucceed\\33-DidStudentSucceed.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T18:40:22.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

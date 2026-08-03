@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projectsOfCpp\\Algorithms-level-one\\21-GetCircleAreaByCircumference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA4DD417-57B9-49AA-907B-34C7E2278BE3}|21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.vcxproj|H:\\projectsOfCpp\\Algorithms-level-one\\21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA4DD417-57B9-49AA-907B-34C7E2278BE3}|21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.vcxproj|solutionrelative:21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "21-GetCircleAreaByCircumference.cpp",
+              "DocumentMoniker": "H:\\projectsOfCpp\\Algorithms-level-one\\21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.cpp",
+              "RelativeDocumentMoniker": "21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.cpp",
+              "ToolTip": "H:\\projectsOfCpp\\Algorithms-level-one\\21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.cpp*",
+              "RelativeToolTip": "21-GetCircleAreaByCircumference\\21-GetCircleAreaByCircumference.cpp*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T18:02:01.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
