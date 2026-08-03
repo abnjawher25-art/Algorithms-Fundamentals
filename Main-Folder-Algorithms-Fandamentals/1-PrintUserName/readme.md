@@ -1,17 +1,24 @@
-C++ Name Printer
-A simple C++ project demonstrating how to define and call a function to print a name to the console.
+📄 README.md
+Markdown
+# C++ Name Printer
 
-📌 Overview
+A simple **C++** project demonstrating how to define and call a function to print a name to the console.
+
+---
+
+## 📌 Overview
+
 This program serves as a basic educational example for C++ beginners. It aims to demonstrate:
 
-How to create and use user-defined functions.
+* How to create and use user-defined functions.
+* How to pass parameters to a function.
+* How to use `cout` from the `<iostream>` library for console output.
 
-How to pass parameters to a function.
+---
 
-How to use cout from the <iostream> library for console output.
+## 💻 Source Code
 
-💻 Source Code
-C++
+```cpp
 #include <iostream>
 using namespace std;
 
