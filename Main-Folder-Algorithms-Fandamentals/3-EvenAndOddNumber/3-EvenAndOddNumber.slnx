@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3-EvenAndOddNumber/3-EvenAndOddNumber.vcxproj" Id="3dd67a9a-69b5-4fee-bc33-7ad3873b6af4" />
+</Solution>
