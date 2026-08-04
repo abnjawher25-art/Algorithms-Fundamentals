@@ -1,0 +1,83 @@
+```markdown
+# 🔺 Triangle Area Calculator Project
+
+A mini-project demonstrating basic geometric area calculations and pass-by-reference parameter passing in **C++**, built as part of fundamental algorithm and structured programming practices.
+
+---
+
+## 🎯 Learning Objectives
+
+* 🔹 Applying geometric area formulas ($\text{Area} = \frac{1}{2} \times \text{base} \times \text{height}$) programmatically.
+* 🔹 Utilizing **pass-by-reference (`&`)** to read multiple floating-point user inputs efficiently.
+* 🔹 Structuring modular functional components for user input, calculation, and output display.
+
+---
+
+## 💻 Source Code
+
+```cpp
+#include <iostream>
+using namespace std;
+
+// Function to read the values of triangle base and height
+void readValues(float& base, float& height)
+{
+	cout << "Enter the value of triangle base: ";
+	cin >> base;
+	cout << "Enter the value of triangle height: ";
+	cin >> height;
+}
+
+// Function to calculate the area of a triangle
+float GetAreaOfTriangle(float base, float height)
+{
+	return 0.5 * base * height;
+}
+
+// Function to print the result
+void printResult(float Area)
+{
+	cout << "\n\nThe area of triangle: " << Area;
+}
+
+// Main function
+int main()
+{
+	// Declare variables to hold the base and height of the triangle	
+	float base, height;
+
+	// Call the function to read the values of base and height
+	readValues(base, height);
+
+	// Call the function to calculate the area of the triangle and print the result
+	printResult(GetAreaOfTriangle(base, height));
+
+	// Return 0 to indicate successful execution
+	return 0;
+}
+
+```
+
+---
+
+## 🖥 Expected Output
+
+```text
+Enter the value of triangle base: 10
+Enter the value of triangle height: 6
+
+
+The area of triangle: 30
+
+```
+
+---
+
+## 👤 Author
+
+* **Ebrahim Bn Jwher**
+* **GitHub:** [@abnjawher25-art](https://www.google.com/search?q=https://github.com/abnjawher25-art)
+
+```
+
+```
