@@ -46,21 +46,6 @@ int main()
 the name: Ebrahim
 
 ```
-
----
-
-## 🚀 How to Run
-
-1. Open your terminal or IDE (VS Code / Visual Studio).
-2. Compile and run the code using a C++ compiler:
-```bash
-g++ main.cpp -o NamePrinter
-./NamePrinter
-
-```
-
-
-
 ---
 
 ## 👤 Author
