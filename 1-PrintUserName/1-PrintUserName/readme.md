@@ -1,10 +1,7 @@
-إليك النص كاملاً باللغة الإنجليزية، بنفس التنسيق الاحترافي والـ Markdown لتنسيقه مباشرة في ملف `README.md`:
+
 
 ```markdown
 # 🔤 Name Printer Project
-
-[![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-blue.svg)](https://isocpp.org/)
-[![Project Type: Fundamentals](https://img.shields.io/badge/Type-Basic%20Function-brightgreen.svg)]()
 
 A mini-project demonstrating how to define and use **functions** in **C++** to pass and print string arguments, built as part of fundamental algorithm and structured programming practices.
 
